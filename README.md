@@ -3,8 +3,7 @@
 [![Build Status](https://travis-ci.org/gfw-api/gfw-subscription-api.svg?branch=dev)](https://travis-ci.org/gfw-api/gfw-subscription-api)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/fd35453ead111fbb221c/test_coverage)](https://codeclimate.com/github/gfw-api/gfw-subscription-api/test_coverage)
 
-This repository contains the microservice that handles subscriptions to
-forest change layers.
+This repository contains the microservice that handles subscriptions to climate monitoring layers.
 
 [View the documentation for this
 API](http://gfw-api.github.io/swagger-ui/?url=https://raw.githubusercontent.com/gfw-api/gfw-subscription-api/master/app/microservice/swagger.yml#/Subscription)
